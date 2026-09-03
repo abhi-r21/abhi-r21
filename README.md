@@ -1,16 +1,54 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**abhi-r21/abhi-r21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Here are some ideas to get you started:
+    <title>Abhi Ram Bojja</title>
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <section class="intro">
+            <p>
+                Hey, I'm <span class="name">Abhi Ram</span> aka Abhi. I'm a developer building for the web <p>while exploring <span class="js">JavaScript</span>, <span class="react">React</span>, and <span class="node">Node.js</span>.</p>
+            </p>
+        </section>
+
+        <section>
+            <p>
+                Currently learning <span class="full">Full-stack development</span>, building projects & growing with every build.
+                Next, I'm diving deeper into <span class= "backend">Backend</span>, <span class="typescript">TypeScript</span>, <span class="base">Databases</span>, <span class="cloud">cloud</span> & <span class="art">AI</span>.
+            </p>
+        </section>
+
+        <section class="contact">
+            <p>
+                Let's build something - 
+                <a href="mailto:abhirambojja765@gmail.com" title="Email">
+                <i class="fa-solid fa-envelope"></i>
+                </a>,
+
+                <a href="https://github.com/abhi-r21" title="GitHub">
+                    <i class="fa-brands fa-github"></i>
+                </a>, &
+
+                <a href="https://www.linkedin.com/in/abhiram-bojja/" title="LinkedIn">
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>.
+            </p>
+        </section>
+
+    </main>
+
+</body>
+
+</html>
